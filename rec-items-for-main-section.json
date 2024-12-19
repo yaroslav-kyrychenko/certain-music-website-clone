@@ -1,0 +1,211 @@
+{
+  "topItems": [
+    {
+      "title": "Daily Mix 4",
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1E37K5JREUGDkG",
+      "imgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb88d76ff51a3a04b9561ac6d8/4/en/default",
+      "type": "playlist",
+      "currentProgress": ""
+    },
+    {
+      "title": "Liked Songs",
+      "itemUrl": "https://open.spotify.com/collection/tracks",
+      "imgUrl": "https://misc.scdn.co/liked-songs/liked-songs-640.png",
+      "type": "playlist",
+      "currentProgress": ""
+    },
+    {
+      "title": "The Expanse Aftershow Season 6 Episode 1 Strange Dogs",
+      "itemUrl": "https://open.spotify.com/episode/24d13Et7qr3WvUQG2oe8h8",
+      "imgUrl": "https://i.scdn.co/image/ab6765630000ba8a57f91064702d8f5c395654ac",
+      "type": "podcast",
+      "currentProgress": "7%"
+    },
+    {
+      "title": "On Repeat",
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1Ept9PdMGds77L",
+      "imgUrl": "https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg",
+      "type": "playlist",
+      "currentProgress": ""
+    },
+    {
+      "title": "Mass Effect (EA Games Soundtrack)",
+      "itemUrl": "https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g",
+      "imgUrl": "https://i.scdn.co/image/ab67616d00001e02fd414d96c21bcdefd6bbd353",
+      "type": "album",
+      "currentProgress": ""
+    },
+    {
+      "title": "War Music",
+      "itemUrl": "https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731fa545556ed1bcc39d0db5ad",
+      "type": "album",
+      "currentProgress": ""
+    },
+    {
+      "title": "Synthwave",
+      "itemUrl": "https://open.spotify.com/playlist/0TvDPDKPiMPYpd7TEJdB3P",
+      "imgUrl": "https://mosaic.scdn.co/640/ab67616d00001e02340c00bff4a87b27bb4692d1ab67616d00001e023f37b3c814c15c878281d791ab67616d00001e026c49f452bc41a9ddb4e55828ab67616d00001e02ee84eefcfa64f488a57a2f91",
+      "type": "playlist",
+      "currentProgress": ""
+    }
+  ],
+  "yourShows": [
+    {
+      "title": "Ty & That Guy",
+      "featured": "Wes Chatham & Ty Franck",
+      "itemUrl": "https://open.spotify.com/show/2EPXLXoqwfdynyhQmRF46M",
+      "imgUrl": "https://i.scdn.co/image/ab67656300005f1f57f91064702d8f5c395654ac"
+    },
+    {
+      "title": "CD-Action Air",
+      "featured": "CD-Action",
+      "itemUrl": "https://open.spotify.com/show/7HB6VeV12NEHafy2NyNz62",
+      "imgUrl": "https://i.scdn.co/image/ab67656300005f1fbbb56b8988b36dc293ddf6a2"
+    },
+    {
+      "title": "The Rest Is History",
+      "featured": "Goalhanger",
+      "itemUrl": "https://open.spotify.com/show/7Cvsbcjhtur7nplC148TWy",
+      "imgUrl": "https://i.scdn.co/image/ab67656300005f1f053b0b90a2dcd86e3eaad82a"
+    },
+    {
+      "title": "Rock i Borys",
+      "featured": "Borys Niespielak, Remigiusz Maciaszek",
+      "itemUrl": "https://open.spotify.com/show/3wMgSXoca4MTuEzBK76tud",
+      "imgUrl": "https://i.scdn.co/image/ab67656300005f1fde7d9d197d9ea13f04847b3a"
+    },
+    {
+      "title": "Twenty Thousand Hertz",
+      "featured": "Dallas Taylor",
+      "itemUrl": "https://open.spotify.com/show/4E8CLD9KUvrwNPjTP4WGrf",
+      "imgUrl": "https://i.scdn.co/image/ab67656300005f1f3e1c8b9184ccbd00bdebc84c"
+    }
+  ],
+  "madeFor": [
+    {
+      "title": "Daily Mix 2",
+      "featured": "Sum 41, AFI, The Offspring and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/2/ab6761610000e5eb625af80b68ae4eb559c6c417/en"
+    },
+    {
+      "title": "Daily Mix 3",
+      "featured": "Daniel Deluxe, OGRE Sound, Nightstop and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/3/ab6761610000e5ebd16bd481fc66faf73a25fe93/en"
+    },
+    {
+      "title": "Daily Mix 4",
+      "featured": "Three Days Grace, New Medicine, Shinedown and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/4/ab6761610000e5eb2e619cf7c1577485d14c2043/en"
+    },
+    {
+      "title": "Daily Mix 5",
+      "featured": "Sub Morphine, LukHash, Shirobon and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/5/ab6761610000e5ebee8bd56d9607140ec95c9998/en"
+    },
+    {
+      "title": "Daily Mix 6",
+      "featured": "A.L.I.S.O.N, Jasper De Ceuster, Hotel Pools and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/6/ab6761610000e5eb7f8f184175b870091c258199/en"
+    }
+  ],
+  "recentlyPlayed": [
+    {
+      "title": "Daily Mix 5",
+      "featured": "Sub Morphine, LukHash, Shirobon and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/5/ab6761610000e5ebee8bd56d9607140ec95c9998/en"
+    },
+    {
+      "title": "Daily Mix 4",
+      "featured": "Three Days Grace, New Medicine, Shinedown and more",
+      "itemUrl": "#",
+      "imgUrl": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/4/ab6761610000e5eb2e619cf7c1577485d14c2043/en"
+    },
+    {
+      "title": "On Repeat",
+      "featured": "Songs you love right now",
+      "itemUrl": "#",
+      "imgUrl": "https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg"
+    },
+    {
+      "title": "War Music",
+      "featured": "Refused",
+      "itemUrl": "https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d00001e021fa545556ed1bcc39d0db5ad",
+      "featuredItemUrl": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+    },
+    {
+      "title": "Dan Terminus",
+      "featured": "Artist",
+      "itemUrl": "https://open.spotify.com/artist/6C0QgVuIzzi3f5NGBx4qWy",
+      "imgUrl": "https://i.scdn.co/image/ab67616d00001e02b05e29df0362cae6e59c0550"
+    }
+  ],
+  "yourTopMixes": [
+    {
+      "title": "Chill Mix",
+      "featured": ["Nobuo Uematsu", "Sam Hulick", "Darkraizard"],
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj",
+      "featuredItemsUrl": [
+        "https://open.spotify.com/playlist/37i9dQZF1EIZaskZs7ARlF",
+        "https://open.spotify.com/playlist/37i9dQZF1EIWBMiEFW5PB7",
+        "https://open.spotify.com/playlist/37i9dQZF1EIXazDgsFlmGJ"
+      ],
+      "imgUrl": "https://seed-mix-image.spotifycdn.com/v6/img/chill/3V79CTgRnsDdJSTqKitROv/en/default"
+    },
+    {
+      "title": "Rock Mix",
+      "featured": ["Måneskin", "SAMURAI", "Pidżama Porno"],
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1EQpj7X7UK8OOF",
+      "featuredItemsUrl": [
+        "https://open.spotify.com/playlist/37i9dQZF1EIXYaxpGTC6aT",
+        "https://open.spotify.com/playlist/37i9dQZF1EIXHdPOJqGpLV",
+        "https://open.spotify.com/playlist/37i9dQZF1EIWzgoICmaoXn"
+      ],
+      "imgUrl": "https://seed-mix-image.spotifycdn.com/v6/img/rock/0lAWpj5szCSwM4rUMHYmrr/en/default"
+    },
+    {
+      "title": "Country Mix",
+      "featured": [
+        "Willie Nelson",
+        "Jason Isbell and the 400 Unit",
+        "Toby Keith"
+      ],
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1EQmPV0vrce2QZ",
+      "featuredItemsUrl": [
+        "https://open.spotify.com/playlist/37i9dQZF1EIZbUCVHXrLZm",
+        "https://open.spotify.com/playlist/37i9dQZF1EIUHTzyg0aYEG",
+        "https://open.spotify.com/playlist/37i9dQZF1EIYOkeCiHdHQM"
+      ],
+      "imgUrl": "https://seed-mix-image.spotifycdn.com/v6/img/country/5W5bDNCqJ1jbCgTxDD0Cb3/en/default"
+    },
+    {
+      "title": "Punk Mix",
+      "featured": ["Refused", "Paramore", "Bowling For Soup"],
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1EQqlvxWrOgFZm",
+      "featuredItemsUrl": [
+        "https://open.spotify.com/playlist/37i9dQZF1EIZ6Sl4mPabFM",
+        "https://open.spotify.com/playlist/37i9dQZF1EIZexEUzyOPQ4",
+        "https://open.spotify.com/playlist/37i9dQZF1EIZ7tigl4sdc1"
+      ],
+      "imgUrl": "https://seed-mix-image.spotifycdn.com/v6/img/punk/5sdxGvwxI1TkTA6Pu2jnTb/en/default"
+    },
+    {
+      "title": "2010s Mix",
+      "featured": ["Shirobon", "Absolute Valentine", "Droid Bishop"],
+      "itemUrl": "https://open.spotify.com/playlist/37i9dQZF1EQqedj0y9Uwvu",
+      "featuredItemsUrl": [
+        "https://open.spotify.com/playlist/37i9dQZF1EIUxW5wVFWomE",
+        "https://open.spotify.com/playlist/37i9dQZF1EIUqI0Pe2PUcf",
+        "https://open.spotify.com/playlist/37i9dQZF1EIWPaREF2Mwri"
+      ],
+      "imgUrl": "https://seed-mix-image.spotifycdn.com/v6/img/twenty_tens/2OgP0RGmDrXN9kOWRNfEuE/en/default"
+    }
+  ]
+}
